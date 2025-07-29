@@ -43,17 +43,17 @@ function App() {
             <div class="accessory-card">
               <img src="https://m.media-amazon.com/images/I/81b8-M0WEyL._AC_SX679_.jpg" alt="Earbud Case" />
               <p>RLSOCO Hard Case for Anker Soundcore P40i</p>
-             <a href="https://www.amazon.com/dp/B0D1KBB2B8/ref=cm_sw_r_as_gl_api_gl_i_47C9G898B1Y5H51P5PZJ?linkCode=ml1&tag=more4kids0a-20&linkId=d71f4085597afc5615333887ed7127d3" target="_blank">Shop Now</a>
+             <a href="https://www.amazon.com/dp/B0D1KBB2B8/ref=cm_sw_r_as_gl_api_gl_i_47C9G898B1Y5H51P5PZJ?linkCode=ml1&tag=more4kids0a-20&linkId=d71f4085597afc5615333887ed7127d3" target="_blank" rel="noopener noreferrer">Shop Now</a>
             </div>
             <div class="accessory-card">
               <img src="https://m.media-amazon.com/images/I/61HY2hCMfDL._AC_SX679_.jpg" alt="earbud tips kit" />
               <p>Ear Tips Kit Memory Foam </p>
-              <a href="https://www.amazon.com/dp/B0DMF3VY9H/ref=cm_sw_r_as_gl_api_gl_i_CQPAG2X45KN98CYH2SKE?linkCode=ml1&tag=more4kids0a-20&linkId=4e12084549ec84cf8f337926008fe655" target="_blank">Shop Now</a>
+              <a href="https://www.amazon.com/dp/B0DMF3VY9H/ref=cm_sw_r_as_gl_api_gl_i_CQPAG2X45KN98CYH2SKE?linkCode=ml1&tag=more4kids0a-20&linkId=4e12084549ec84cf8f337926008fe655" target="_blank" rel="noopener noreferrer">Shop Now</a>
             </div>
             <div class="accessory-card">
               <img src="https://m.media-amazon.com/images/I/613YtdrAKpL._AC_SX679_.jpg" alt="Magnetic Earbuds Strap" />
               <p>Geekria 2 Pack Earbuds Magnetic Anti-Lost Strap</p>
-              <a href="https://www.amazon.com/dp/B08GY8Q3ZQ?tag=more4kids0a-20" target="_blank">Shop Now</a>
+              <a href="https://www.amazon.com/dp/B08GY8Q3ZQ?tag=more4kids0a-20" target="_blank" rel="noopener noreferrer">Shop Now</a>
             </div>
           </div>
       </section>
